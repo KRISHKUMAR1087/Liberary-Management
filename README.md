@@ -8,6 +8,14 @@ TM 2 = 24DCE004, ASHITI AGATH
 
 TM 3 = 24DCE042, JENSHI GHORI
 
+RUN SERVER BEFORE STARTING WEBSITE 
+
+RUN COMMANDS :- 
+npm install
+
+client/ :- npm install
+
+mian folder:- npm run dev
 
 **WORKIG URL OF WEBSITE :- https://68d7d59c1814c89961a215ba--fanciful-unicorn-ae2aa0.netlify.app/**
 
