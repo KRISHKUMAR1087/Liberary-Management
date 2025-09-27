@@ -248,6 +248,9 @@ npm test
 npm test
 \`\`\`
 
+# Run Website
+npm run dev
+
 ## 📦 Production Build
 
 ### Build Frontend
@@ -303,5 +306,4 @@ If you encounter any issues or have questions:
 
 ---
 
-**Built with ❤️ for modern library management**
 
