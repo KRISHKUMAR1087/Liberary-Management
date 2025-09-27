@@ -15,7 +15,7 @@ npm install
 
 client/ :- npm install
 
-mian folder:- npm run dev
+main folder:- npm run dev
 
 **WORKIG URL OF WEBSITE :- https://68d7d59c1814c89961a215ba--fanciful-unicorn-ae2aa0.netlify.app/**
 
