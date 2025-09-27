@@ -1,3 +1,10 @@
+TEAM DETAILS :- 
+
+TL = 24DCE027 , KRISHKUMAR DARJI
+TM 1 = 24DCE030, HARSHIL DESAI
+TM 2 = 24DCE004, ASHITI AGATH
+TM 3 = 24DCE042, JENSHI GHORI
+
 # Library Management System
 
 A modern, full-stack library management system built with React, Node.js, Express, and MongoDB. Features beautiful UI/UX with animations, comprehensive book management, borrowing system, and admin controls.
